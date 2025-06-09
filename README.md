@@ -1,14 +1,14 @@
-# Gorgeous Horizons – Static Calendar
+# Gorgeous Horizons – Dynamic Calendar
 
-A beautifully styled static HTML calendar designed for singles, event-goers, and community curators.
+A simple calendar page showcasing events using the open source [FullCalendar](https://fullcalendar.io/) library.
 
 ## Features
-- Monthly layout
-- Hover effects
-- Color-branded design
+- Monthly, weekly and daily views
+- Previous/next navigation
+- Sample event list
 
 ## Usage
-Open `index.html` in a browser or host it as a static webpage.
+Open `index.html` in a browser or host it as a static webpage. The page loads the FullCalendar library from a CDN and renders a calendar with a sample event.
 
 ## License
 GPL v3 – Use freely, but keep it open source.
